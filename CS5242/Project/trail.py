@@ -1,1 +1,2 @@
-print('hello faa')
+msg = "hello world"
+print(msg)
